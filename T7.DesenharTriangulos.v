@@ -1,4 +1,4 @@
-/Trabalho, desenhar triângulos com verilog usando VGA/
+/*Trabalho, desenhar triângulos com verilog usando VGA*/
 
 
 module calc(
